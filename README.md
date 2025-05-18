@@ -31,11 +31,18 @@ This project is focused on evaluating and fine-tuning multimodal models that com
 
 All dataset curation scripts can be found in `Dataset/`.
 
+## 🧼 Data Preprocessing
+## 📊 Exploratory Data Analysis (EDA)
+## 🏁 Baseline Models
+## 🔧 LoRA Fine-Tuning
+## 🔎 Inference
+## 📈 Evaluation
+## 🛠️ Setup and Installation
+
+
 ### Description:
 - Collects and formats image-text datasets
 - Supports custom and benchmark datasets
 - Outputs cleaned data in JSON/CSV format
 
-### Usage:
-```bash
-python Dataset/curation_code.py --input_path ./raw_data/ --output_path ./processed_data/
+
