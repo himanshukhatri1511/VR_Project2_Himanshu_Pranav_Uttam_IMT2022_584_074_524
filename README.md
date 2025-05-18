@@ -15,6 +15,8 @@ VR_Project2_Himanshu_Pranav_Uttam_IMT2022_584_074_524/
 │         #all  VilT LoRa finetune scripts and models. 
 │  
 ├── blip2-baseline
+│  
+├── BLIP2
 │
 ├── Sample-Submission/ #contains inference.py and requirements.txt
 │
