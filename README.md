@@ -17,9 +17,9 @@ VR_Project2_Himanshu_Pranav_Uttam_IMT2022_584_074_524/
 │
 ├── Sample-Submission/ #contains inference.py and requirements.txt
 │
-├── Inference-setup
+├── Inference-setup/
 │
-├── 
+├── curation
 
 
 ```
