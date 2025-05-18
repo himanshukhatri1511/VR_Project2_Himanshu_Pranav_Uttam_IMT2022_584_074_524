@@ -1,0 +1,1 @@
+{"repos": [{"repoId": "Salesforce/blip-vqa-base", "repoType": "model", "commitHash": "787b3d35d57e49572baabd22884b3d5a05acf072"}, {"repoId": "sentence-transformers/all-MiniLM-L6-v2", "repoType": "model", "commitHash": "c9745ed1d9f207416be6d2e6f8de32d1f16199bf"}]}
