@@ -13,7 +13,7 @@
 - [🔎 Inference](#-inference)
 - [📈 Evaluation](#-evaluation)
 - [🛠️ Setup and Installation](#-setup-and-installation)
-- [📜 License](#-license)
+
 
 ---
 
