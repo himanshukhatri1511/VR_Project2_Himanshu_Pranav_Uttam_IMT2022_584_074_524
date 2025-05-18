@@ -33,14 +33,14 @@ All dataset curation scripts can be found in `Dataset/`.
 ## 🧼 Data Preprocessing
 ## 📊 Exploratory Data Analysis (EDA)
 ## 🏁 Baseline Models
+  ### BLIP
+  ### BLIP-2
+  ### ViLT
 ## 🔧 LoRA Fine-Tuning
 ## 🔎 Inference
 ## 📈 Evaluation
 
 
-### Description:
-- Collects and formats image-text datasets
-- Supports custom and benchmark datasets
-- Outputs cleaned data in JSON/CSV format
+
 
 
