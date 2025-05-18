@@ -12,7 +12,6 @@
 - [🔧 LoRA Fine-Tuning](#-lora-fine-tuning)
 - [🔎 Inference](#-inference)
 - [📈 Evaluation](#-evaluation)
-- [🛠️ Setup and Installation](#-setup-and-installation)
 
 
 ---
@@ -37,7 +36,6 @@ All dataset curation scripts can be found in `Dataset/`.
 ## 🔧 LoRA Fine-Tuning
 ## 🔎 Inference
 ## 📈 Evaluation
-## 🛠️ Setup and Installation
 
 
 ### Description:
