@@ -21,9 +21,9 @@ VR_Project2_Himanshu_Pranav_Uttam_IMT2022_584_074_524/
 │
 ├── curation
 │
-├──Datasets
+├── Datasets
 │
-├──Final_Eval
+├── Final_Eval
 
 
 ```
